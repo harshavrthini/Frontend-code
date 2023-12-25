@@ -1,6 +1,6 @@
 # Project Name
 
-Frontend develop  is a example you can create your own coding for your own website as a beginner. It is built using HTML, CSS, and JavaScript.
+Frontend develop  is a example you can create your own coding for your own website as a beginner. It is built using HTML.
 
 ## Table of Contents
 
